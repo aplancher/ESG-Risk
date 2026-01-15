@@ -16,7 +16,7 @@ across sectors.
    ```bash
    git clone https://github.com/aplancher/ESG-Risk.git
 2. Navigate to project directory
-   cd your-repo-name
+   cd ESG-Risk
 3. Install libraries
    pip install pandas numpy matplotlib scipy scikit-learn
 4. Open in any Jupyter-compatible environment
