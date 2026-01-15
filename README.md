@@ -10,6 +10,16 @@ The results show that ESG risk profiles vary meaningfully by industry and can be
 company sector with moderate accuracy, suggesting that sustainability risks are not uniform
 across sectors.
 
+## Dataset
+
+This project uses the **S&P 500 ESG Risk Ratings** dataset, created by **Pritish Dugar**, and sourced
+from Kaggle.
+
+Due to licensing restrictions, the dataset is not included in this repository. To reproduce
+the results, please download the dataset from Kaggle and place it in the same directory as
+the notebook.
+
+
 ## How to Run
 
 1. Clone this repository:
